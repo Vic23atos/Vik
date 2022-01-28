@@ -1,2 +1,1 @@
-Hello Git 2.0.1 
-Hello 
+Hello, world 
